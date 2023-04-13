@@ -62,4 +62,9 @@ a[href*="google"] {
 
 button:hover {
     background-color: pink;
+    color: #283618;
+}
+
+a:hover {
+    color: pink;
 }
