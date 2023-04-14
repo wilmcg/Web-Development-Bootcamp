@@ -68,3 +68,8 @@ button:hover {
 a:hover {
     color: pink;
 }
+
+.tag:hover {
+    text-decoration: underline;
+    cursor: grab;
+}
