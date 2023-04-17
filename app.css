@@ -79,3 +79,15 @@ a:hover {
 .post:nth-of-type(2n) {
     background-color: #0a1727;
 }
+
+h2::first-letter {
+    font-size: 30px;
+}
+
+p::first-line {
+    text-decoration: line-through;
+}
+
+p::selection {
+    background-color: pink;
+}
