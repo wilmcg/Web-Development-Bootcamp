@@ -7,9 +7,10 @@ section {
 }
 
 form {
-    color: greenyellow;
+    color: rgb(0, 255, 0);
 }
 
-button, input {
+button,
+input {
     color: inherit;
 }
