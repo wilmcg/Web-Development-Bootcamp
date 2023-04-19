@@ -1,7 +1,18 @@
+body {
+    background-color: #212529;
+}
+
 div {
     width: 200px;
     height: 200px;
     background-color: #ffafcc;
+}
+
+h1 {
+    background-color: bisque;
+    padding-left: 100px;
+    width: 200px;
+    padding-top: 50px;
 }
 
 #one {
@@ -20,6 +31,7 @@ div {
     border-style: dashed;
     border-left-width: 5px;
     border-left-color: aqua;
+    padding-right: 50px;
 }
 
 #three {
@@ -27,4 +39,8 @@ div {
     border: 4px dotted green;
     border-left-style: solid;
     border-radius: 10%;
+}
+
+button {
+    padding: 10px 20px 30px 40px;
 }
