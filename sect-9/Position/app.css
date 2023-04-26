@@ -1,0 +1,17 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: #023047;
+    border: 2px solid black;
+    margin: 10px;
+    display: inline-block;
+}
+
+#middle {
+    background-color: #219ebc;
+}
+
+#static #middle {
+    position: static;
+    top: 100px;
+}
