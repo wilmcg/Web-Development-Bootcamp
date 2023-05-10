@@ -13,4 +13,5 @@ div {
 
 #static #middle {
     position: static;
+    color: red;
 }
